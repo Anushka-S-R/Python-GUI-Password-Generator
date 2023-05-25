@@ -32,6 +32,6 @@ This project implements the following functionalities:
 </ul>
 
 # Team Members
-Anushka Siri Raghunandan
-Ayush Kumar Gupta
+Anushka Siri Raghunandan<br/>
+Ayush Kumar Gupta<br/>
 Bolisetty Naga Sathya Sai Krishna  
